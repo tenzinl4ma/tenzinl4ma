@@ -6,9 +6,9 @@
   <img src="https://komarev.com/ghpvc/?username=tenzinl4ma&label=Profile%20views&color=0e75b6&style=flat" alt="tenzinl4ma" />
 </p>
 
-
+<img align="right" alt= "@dragonwarrior" width="400" src= "![image](https://github.com/user-attachments/assets/6a769995-3b60-47d9-8399-9d34bd0fcccc)">
 - 🌱 I’m currently learning **Kali Linux, Python**  
-<p><img align="center" src="https://i.makeagif.com/media/8-30-2023/kgqEqp.gif" alt="tenzinl4ma" /></p>
+
 - 👯 I’m want to learn networking in depth **Cisco**
   
 - 👨‍💻 All of my projects are available at [https://github.com/tenzinl4ma](https://github.com/tenzinl4ma)
