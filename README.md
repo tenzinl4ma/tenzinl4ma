@@ -8,8 +8,7 @@
 
 
 - 🌱 I’m currently learning **Kali Linux, Python**  
-  ![Learning Gif](https://i.makeagif.com/media/8-30-2023/kgqEqp.gif)
-
+<p><img align="center" src="https://i.makeagif.com/media/8-30-2023/kgqEqp.gif" alt="tenzinl4ma" /></p>
 - 👯 I’m want to learn networking in depth **Cisco**
   
 - 👨‍💻 All of my projects are available at [https://github.com/tenzinl4ma](https://github.com/tenzinl4ma)
@@ -52,8 +51,6 @@
 
 
 
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tenzinl4ma&" alt="tenzinl4ma" /></p>
 
 
 <!---
