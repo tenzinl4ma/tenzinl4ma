@@ -6,7 +6,9 @@
   <img src="https://komarev.com/ghpvc/?username=tenzinl4ma&label=Profile%20views&color=0e75b6&style=flat" alt="tenzinl4ma" />
 </p>
 
-<img align="right" alt= "@dragonwarrior" width="400" src= "![image](https://github.com/user-attachments/assets/6a769995-3b60-47d9-8399-9d34bd0fcccc)">
+<img  src="https://upload.wikimedia.org/wikipedia/commons/c/cc/Digital_rain_animation_medium_letters_shine.gif"  alt= "@dragonwarrior">
+
+
 - 🌱 I’m currently learning **Kali Linux, Python**  
 
 - 👯 I’m want to learn networking in depth **Cisco**
