@@ -29,7 +29,7 @@
 <p align="left">
 <a href="https://fb.com/tenwang lama" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="tenwang lama" height="30" width="40" /></a>
 <a href="https://instagram.com/tenzinlama212" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="tenzinlama212" height="30" width="40" /></a>
-<a href="https://www.tiktok.com/@tenzinlama3298?lang=en" target="blank"><img align="center" src="https://i.pinimg.com/originals/99/e1/16/99e116e1d4958d73392f29f2225158cd.png" alt="tenzinlama212" height="30" width="40" /></a>
+<a href="https://www.tiktok.com/@tenziwang" ><img align="center" src="https://i.pinimg.com/originals/99/e1/16/99e116e1d4958d73392f29f2225158cd.png" alt="tenzinlama212" height="30" width="40" /></a>
   
 </p>
 
