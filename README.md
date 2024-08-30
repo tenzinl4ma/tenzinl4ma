@@ -42,10 +42,8 @@
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=tenzinl4ma&limit=5&theme=merko&combine_all_yearly_contributions=true)
-<img align="right" alt="Coder GIF" height=250 width=350 src="https://images.squarespace-cdn.com/content/v1/5769fc401b631bab1addb2ab/1541580611624-TE64QGKRJG8SWAIUS7NS/ke17ZwdGBToddI8pDm48kPoswlzjSVMM-SxOp7CV59BZw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJZamWLI2zvYWH8K3-s_4yszcp2ryTI0HqTOaaUohrI8PI6FXy8c9PWtBlqAVlUS5izpdcIXDZqDYvprRqZ29Pw0o/coding-freak.gif" />
+<img align="right" alt="Coder GIF" height=300 width=500 src="https://github.com/user-attachments/assets/aa4309d3-d623-4857-a15d-f4745544bae3" />
 <br>
-
-![b4e371619042d1e80918d09904e90f7d (1)](https://github.com/user-attachments/assets/9de90054-bbce-4a4c-8693-dec53a5603da)
 
 
 ---
