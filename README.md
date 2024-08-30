@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Tenzin Lama (DragonWarrior)</h1>
-<h3 align="center">I am very passionate about security analysis, pentesting and bug bounty.</h3>
+<h3 align="center">I am very passionate about cyber security, pentesting and bug bounty.</h3>
 <div align="center">
 
   <img align="right" src="https://komarev.com/ghpvc/?username=tenzinl4ma&label=Profile%20views&color=0e75b6&style=flat" alt="tenzinl4ma" />
@@ -40,7 +40,7 @@
 
 ### 🔝 Top Contributed Repo
 <img align="left" alt ="best" height=300 width=450 src = "https://github-contributor-stats.vercel.app/api?username=tenzinl4ma&limit=5&theme=merko&combine_all_yearly_contributions=true"/>    
-<img align="right" alt="Coder GIF" height=250 width=450 src="https://github.com/user-attachments/assets/aa4309d3-d623-4857-a15d-f4745544bae3" />
+<img align="right" alt="Coder GIF" height=250 width=350 src="https://github.com/user-attachments/assets/aa4309d3-d623-4857-a15d-f4745544bae3" />
 
 <br>
 
