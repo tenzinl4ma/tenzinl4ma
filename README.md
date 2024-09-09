@@ -14,7 +14,7 @@
  
 - 🌱 I’m currently learning **Kali Linux, Python**  
 
-- 👯 I’m want to learn networking in depth **Cisco**
+- 👯 I’m want to learn networking in depth 
   
 - 👨‍💻 All of my projects are available at [https://github.com/tenzinl4ma](https://github.com/tenzinl4ma)
 
