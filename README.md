@@ -14,7 +14,7 @@
  
 - 🌱 I’m currently learning **Kali Linux, Python**  
 
-- 👯 I’m want to learn networking in depth 
+- 👯 I want to learn networking in depth 
   
 - 👨‍💻 All of my projects are available at [https://github.com/tenzinl4ma](https://github.com/tenzinl4ma)
 
@@ -24,7 +24,7 @@
 
 - 📄 Know about my experiences [currently experiencing to have experience.]
 
-- ⚡ Fun fact about me **I am not funny. lol**
+- ⚡ Fun fact about me **There is nothing!. lol**
                                                                        <h1 align="left"> 💻 Tech Stack👇:_______________Connect With Me!👇 </h1>
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)
 <a href="https://fb.com/tenwang lama" target="_blank"> <img align="right" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="tenwang lama" height="30" width="40" /></a><a href="https://instagram.com/tenzinlama212" target="_blank"><img align="right" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="tenzinlama212" height="30" width="40" /></a>
