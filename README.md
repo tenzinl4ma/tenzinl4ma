@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <sub>^ Click the terminal line above to launch the fully interactive hacking portfolio ^</sub>
+  <sub>^ Click the terminal line above to see my portfolio ^</sub>
 </p>
 
 ---
