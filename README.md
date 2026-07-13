@@ -1,4 +1,4 @@
-<table align="center" width="100%" border="0" cellspacing="0" cellpadding="0" bgcolor="#161B22">
+<table align="center" width="95%" border="0" cellspacing="0" cellpadding="0" bgcolor="#161B22">
   <tr>
     <td bgcolor="#21262D" style="padding: 12px 18px; font-family: monospace; border-bottom: 1px solid #30363D;">
       <img src="https://raw.githubusercontent.com/tenzinl4ma/FakeMeat-Website/main/assets/macbut.png" height="14" alt="macOS buttons" style="vertical-align: middle;" />
